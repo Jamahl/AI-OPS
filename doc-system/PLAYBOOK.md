@@ -53,7 +53,7 @@ Pick only the satellites the project needs.
 ```bash
 mkdir -p docs .claude/skills/docs-update scripts
 cp templates/PROJECT_OVERVIEW.md templates/CLAUDE.md .
-cp templates/skills/docs-update/SKILL.md .claude/skills/docs-update/
+cp ../skills/docs-update/SKILL.md .claude/skills/docs-update/
 cp templates/scripts/check_doc_refs.sh scripts/
 ```
 

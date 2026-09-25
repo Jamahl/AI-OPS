@@ -53,7 +53,7 @@ padding.
   commit references.
 - **Absolute dates** ("2026-07-22"), never "today" / "recently".
 - **No PII in docs**: no personal email addresses, no Composio
-  connected-account ids (`ca_…`) — use role descriptions ("Isabelle's
+  connected-account ids (`ca_…`) — use role descriptions ("the client's
   personal Gmail — id in the Composio dashboard"). Work emails are tolerated
   but prefer names.
 - **Mirror less, point more.** Don't hand-copy column lists or route
